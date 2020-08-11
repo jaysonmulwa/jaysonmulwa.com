@@ -5,15 +5,15 @@ banner:
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "I am a software engineer who is passionate about tech. I love programming and building things. When I am not in front of a computer, I love to express my creativity through cooking, sports, music, art and photography."
   button:
     enable : true
     label : "know more"
-    URL : "about"
+    URL : "about/"
 
 # skill
 skill:
-  enable : true
+  enable : false
   title : "Skills"
   item:
     - title : "Web Design"
@@ -58,9 +58,13 @@ education:
     - title : "Bsc. Computer Science"
       year : "2019"
       academy : "Jomo Kenyatta University (JKUAT)"
+
+    - title : "Android Development"
+      year : "2014"
+      academy : "Emobilis Mobile Technology Institute"
       
   
-    - title : "Android Development & Web Development"
+    - title : "Mobile & Web Development"
       year : "2014"
       academy : "Emobilis Mobile Technology Institute"
 
@@ -73,19 +77,19 @@ service:
   enable : true
   title : "Services"
   item:
-    - title : "UI Design"
+    - title : "Front-End"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "React, JQuery, DHTMLX."
       highlighted : false
 
-    - title : "UX Design"
-      icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : "Backend"
+      icon : "ti-server"
+      content : "PHP, Go, Node JS."
       highlighted : true
 
-    - title : "Interaction Design"
-      icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : "Cloud"
+      icon : "ti-cloud"
+      content : "Heroku, AWS, Docker."
       highlighted : false
 
 # portfolio
@@ -98,26 +102,22 @@ portfolio:
 # testimonial
 testimonial:
   enable : true
-  title : "Testimonials"
+  title : "Recommendations"
   item:
-    - name : "Jesica Gomez"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - name : "George Maina"
+      image : "images/testimonial/0.png"
+      designation : "Project Lead, Wavuh"
+      content : "Jayson is a pro-active web application developer that always strives to deliver as per the customers needs and constantly learning on how to improve the existing technology. Having worked with him on a number of projects he has also presented strong leadership skills in working with other teams both on the customer and developer's side."
       
-    - name : "Shirley Scot"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - name : "Elton Kibara"
+      image : "images/testimonial/1.png"
+      designation : "Salesforce Consultant, Blue Consulting Kenya"
+      content : "Experienced full stack developer with industry skills and good work ethic."
       
-    - name : "Jessica Julie"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
+   
 # client logo slider
 clients_logo_slider:
-  enable : true
+  enable : false
   item:
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "http://examplesite.com"
