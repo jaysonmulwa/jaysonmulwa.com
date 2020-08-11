@@ -1,13 +1,13 @@
 ---
 title: "About"
-description: "This is meta description."
-author_image : "images/about/author.jpg"
+description: "About Page."
+author_image : "images/about/download.png"
 author_signature : "images/about/signature.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+"Engineering is the closest thing to magic that exists in the world." - Elon Musk
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+I am a software developer who is passionate about tech. I love programming and building things.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+When I am not in front of a computer, I love to express my creativity through cooking, sports, music, art and photography.

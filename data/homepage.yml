@@ -94,7 +94,7 @@ service:
 
 # portfolio
 portfolio:
-  enable : true
+  enable : false
   title : "Portfolio"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
@@ -105,12 +105,12 @@ testimonial:
   title : "Recommendations"
   item:
     - name : "George Maina"
-      image : "images/testimonial/0.png"
+      image : "images/testimonial/0.jpg"
       designation : "Project Lead, Wavuh"
       content : "Jayson is a pro-active web application developer that always strives to deliver as per the customers needs and constantly learning on how to improve the existing technology. Having worked with him on a number of projects he has also presented strong leadership skills in working with other teams both on the customer and developer's side."
       
     - name : "Elton Kibara"
-      image : "images/testimonial/1.png"
+      image : "images/testimonial/1.jpg"
       designation : "Salesforce Consultant, Blue Consulting Kenya"
       content : "Experienced full stack developer with industry skills and good work ethic."
       
