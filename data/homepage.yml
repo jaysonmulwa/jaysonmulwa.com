@@ -1,6 +1,6 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Hi! I’m <br> Jayson <br> Software Engineer"
 
 # about
 about:
@@ -38,40 +38,35 @@ experience:
   title : "Experience"
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+      title : "Software Engineer"
+      company : "Wavuh Ltd."
+      duration : "Sep 2018 - Aug 2020"
       
     - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+      title : "Front-End Attachee"
+      company : "Hybra Inc."
+      duration : "July 2017 - Aug 2017"
       
-    - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+   
 
 # education
 education:
   enable : true
   title : "Education"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    
+    - title : "Bsc. Computer Science"
+      year : "2019"
+      academy : "Jomo Kenyatta University (JKUAT)"
       
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
-      
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-      
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+  
+    - title : "Android Development & Web Development"
+      year : "2014"
+      academy : "Emobilis Mobile Technology Institute"
+
+    - title : "KCSE"
+      year : "2013"
+      academy : "Machakos School"
 
 # service
 service:

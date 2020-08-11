@@ -39,12 +39,12 @@ name = "Blog"
 weight = 2
 
 [[menu.main]]
-URL = "portfolio"
+URL = "portfolio/"
 name = "Portfolio"
 weight = 3
 
 [[menu.main]]
-URL = "contact"
+URL = "contact/"
 name = "Contact"
 weight = 4
 
@@ -56,16 +56,17 @@ logo = ""
 # theme color
 theme_color = "#41228e"
 # contact info
-phone = "+880 2544 658 256"
-email = "steve.fruits@email.com"
-address = "125/A, CA Commercial Area, California, USA"
+phone = "+254 743 10 5448"
+email = "jayson.mulwa@email.com"
+address = "Nairobi, Kenya"
 # meta description
-author = "Johnathan Smith"
-description = "This is meta description"
+author = "Jayson Mulwa"
+description = "Jayson Mulwa Blog"
 # google analytics
-google_analytics_id = "" # Your ID
+google_analytics_id = "UA-159075558-2" # Your ID
 # copyright
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+
 
 
 # preloader
@@ -76,7 +77,7 @@ preloader = "images/preloader.gif" # use png, jpg, svg or gif format
 # contact
 [params.contact]
 enable = true
-form_action = "#" # contact form works with : https://formspree.io
+form_action = "https://formspree.io/xdowjzqk" # contact form works with : https://formspree.io
 
 # google map
 [params.map]
@@ -86,19 +87,19 @@ map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 
-# social site
-[[params.social]]
-icon = "ti-facebook"
-URL = "#"
+#  social site
+#  [[params.social]]
+#  icon = "ti-facebook"
+#  URL = "#"
 
 [[params.social]]
-icon = "ti-instagram"
-URL = "#"
+icon = "ti-linkedin"
+URL = "https://www.linkedin.com/in/jayson-mulwa-5b6582122/"
 
 [[params.social]]
-icon = "ti-dribbble"
-URL = "#"
+icon = "ti-github"
+URL = "https://github.com/jaysonmulwa"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-URL = "#"
+URL = "https://twitter.com/jaysonmulwa"
