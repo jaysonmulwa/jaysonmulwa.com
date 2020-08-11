@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://examplesite.com"
+baseURL = "https://master.d1ncix6b5u2zcu.amplifyapp.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
