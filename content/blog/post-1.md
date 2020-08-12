@@ -1,46 +1,48 @@
 ---
-title: "Amazon increase income 1.5 Million"
-date: 2019-05-12T12:14:34+06:00
-image: "images/blog/post-5.jpg"
-description: "This is meta description."
+title: "5 Amazing Sites to Learn Go Lang"
+date: 2020-08-12T12:14:34+06:00
+image: "images/blog/post-1.jpg"
+description: "5 Amazing Sites to Learn Go Lang"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+> Engineering is the closest thing to magic that exists in the world. *-* *Elon Musk*
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Go is a statically-typed, fast, compiled and open source programming language. It is designed for building simple and fast programs owing to its features. Some of the standout features of go lang include:
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+* Simplicity
+* Speed of compilation
+* Object-Oriented nature
+* Concurrency
+* Systems Programming capability
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+
+Here as some of good sites that will surely guide you in your journey of Go. 
+
+# 1. [A Tour of Go](https://tour.golang.org/)
+
+It is one of the most common sites, attributing to its high Google search result ranking. It offers an interactive experience where you can run code examples and your own code in-browser. One of its standout features might be its internationalization, it offers the tutorials in many languages. It is also highlighted as the preferred Go guide on the Go offical documentation site. 
+
+
+# 2. [Tutorial Edge](https://tutorialedge.net/golang/)
+
+One of my personal favorites. It has tutorials organised in 3 levels. Beginner, Intermediate and Advanced. Tutorials also include how to solve some of the most common programming problems.
+
+
+# 3. [Go by Example](https://gobyexample.com/)
+
+It also has the feature to run your code in browser and therefore giving a very hands-on learning experience. The listing of all study areas on its homepage gives a clear and comprehensive roadmap of what needs to be learnt.
+
+
+# 4. [Go Lang Programs](https://www.golangprograms.com/go-language/)
+
+A good site with a clean UI. It presents the basics of Go from beginner to advanced level. Along with various examples, solutions and how-tos which are the standout feature of this site to me. 
+
+
+# 5. [Geeks for Geeks](https://www.geeksforgeeks.org/go-programming-language-introduction/)
+
+A short and precise Go tutorial highlighting the most fundamental parts of Go. It also features an nice history of the language on the introduction part.
+
+
+
